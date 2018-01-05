@@ -7,6 +7,7 @@
 	<buildSpec>
 		<buildCommand>
 			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<triggers>clean,full,incremental,</triggers>
 			<arguments>
 			</arguments>
 		</buildCommand>
@@ -25,7 +26,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1479867995839</id>
+			<id>1515128182828</id>
 			<name></name>
 			<type>26</type>
 			<matcher>
@@ -34,7 +35,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1479867995851</id>
+			<id>1515128182902</id>
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -43,4 +44,10 @@
 			</matcher>
 		</filter>
 	</filteredResources>
+	<variableList>
+		<variable>
+			<name>LIVE555_PATH</name>
+			<value>$%7BPARENT-1-PROJECT_LOC%7D</value>
+		</variable>
+	</variableList>
 </projectDescription>

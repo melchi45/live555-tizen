@@ -1,9 +1,0 @@
-# ninja log v5
-51	460	0	src/BasicTaskScheduler.o	2354af479a15f28c
-44	484	0	src/BasicUsageEnvironment.o	187eb4751f70c039
-63	489	0	src/BasicUsageEnvironment0.o	d3b5f5864074c3f9
-30	489	0	src/BasicHashTable.o	7fd0fe521d2967f0
-34	498	0	src/DelayQueue.o	1834e2bb7683ff7d
-37	506	0	src/BasicTaskScheduler0.o	81057172929e1446
-506	898	0	libbasicusageenvironment.so	a2ed640d14443aaf
-2	435	0	libBasicUsageEnvironment.so	3e8687160e4a3f59
